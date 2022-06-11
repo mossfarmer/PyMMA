@@ -1,0 +1,1 @@
+### The goal of this project was to take a spreadsheet as input to python, make basic calculations and then automatically change cells in the google sheets page. This is done using googles OAUTH system. 
